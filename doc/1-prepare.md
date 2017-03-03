@@ -47,7 +47,7 @@ npm init
 
 ### 步骤三、安装开发所需文件
 
-1. 下载框架文件
+1、 下载框架文件
 
 - [Vue](http://cn.vuejs.org/v2/guide/installation.html) 一套构建用户界面的渐进式前端MVVM框架
 - [JRoll](http://www.chjtx.com/JRoll/#download) 一款具有滑动加速、回弹、缩放、滚动条、滑动事件等功能的html5滚动插件
@@ -55,7 +55,7 @@ npm init
 
 分别到以上三个网站下载最新的代码（包括带.min后缀的压缩版）
 
-2. 安装开发工具
+2、 安装开发工具
 
 - [JTaro Module](https://github.com/chjtx/JTaro-Module) 一款使用ES6模块语法的前端模块管理工具
 - [JTaro Bundle](https://github.com/chjtx/JTaro-Bundle) 为JTaro服务的打包脚本
@@ -64,7 +64,7 @@ npm init
 npm i -D jtaro-module jtaro-bundle
 ```
 
-3. 安装eslint到本地项目
+3、 安装eslint到本地项目
 
 使用vue代码规范的配置，Mac需要加sudo提升权限安装
 
