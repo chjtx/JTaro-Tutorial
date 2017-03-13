@@ -37,12 +37,12 @@ npm init
 创建目录
 
 ```c
-/-- dev
-    `-- assets/  // 存放静态资源
-    `-- data/    // 存放模拟数据
-    `-- pages/   // 存放业务逻辑
-    `-- vendors/ // 存放第三方库
-    `-- index.html // 首页
+|-- dev
+    |-- assets/  // 存放静态资源
+    |-- data/    // 存放模拟数据
+    |-- pages/   // 存放业务逻辑
+    |-- vendors/ // 存放第三方库
+    |-- index.html // 首页
 ```
 
 ### 步骤三、安装开发所需文件
@@ -73,5 +73,29 @@ sudo npm i -D eslint eslint-plugin-vue eslint-config-vue
 ```
 
 VSCode编辑器安装也需要安装eslint扩展
+
+4、修改VSCode编辑器默认配置
+
+```json
+// 将设置放入此文件中以覆盖默认设置
+{
+    // 自动换行
+    "editor.wrappingColumn": 0,
+    // 两空格缩进
+    "editor.tabSize": 2,
+    // 关闭VSCode自带的js校验
+    "javascript.validate.enable": false,
+    // 配置 glob 模式以排除文件和文件夹。
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    }
+}
+```
+
+【扩展阅读】[JavaScript 语句后应该加分号么？](https://www.zhihu.com/question/20298345/answer/49551142)
 
 
