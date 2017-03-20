@@ -1,6 +1,10 @@
 # 开发
 
-## 了解JTaro和JTaro Module
+## 了解Vue、JRoll、JTaro和JTaro Module
+
+Vue 中文网：[http://cn.vuejs.org/](http://cn.vuejs.org/)
+
+JRoll 官网：[http://www.chjtx.com/JRoll/](http://www.chjtx.com/JRoll/)
 
 JTaro 官网：[http://www.chjtx.com/JTaro/](http://www.chjtx.com/JTaro/)
 
