@@ -2,9 +2,9 @@
 
 三步曲
 
-- [准备](./blob/master/doc/1-prepare.md)
-- [开发](./blob/master/doc/2-develop.md)
-- [上线](./blob/master/doc/3-production.md)
+- [准备](./doc/1-prepare.md)
+- [开发](./doc/2-develop.md)
+- [上线](./doc/3-production.md)
 
 本教程将会一步一步引导大家从零开始搭建一个前端WebApp项目
 
