@@ -1,6 +1,6 @@
 # 开发
 
-## 了解Vue、JRoll、JTaro和JTaro Module
+## 开发之前
 
 Vue 中文网：[http://cn.vuejs.org/](http://cn.vuejs.org/)
 
@@ -9,6 +9,8 @@ JRoll 官网：[http://www.chjtx.com/JRoll/](http://www.chjtx.com/JRoll/)
 JTaro 官网：[http://www.chjtx.com/JTaro/](http://www.chjtx.com/JTaro/)
 
 JTaro Module：[https://github.com/chjtx/JTaro-Module](https://github.com/chjtx/JTaro-Module)
+
+Git中文教程：[http://git.oschina.net/progit/](http://git.oschina.net/progit/)
 
 ## 创建开发分支
 
