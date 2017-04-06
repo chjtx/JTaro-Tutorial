@@ -12,6 +12,8 @@ JTaro Module：[https://github.com/chjtx/JTaro-Module](https://github.com/chjtx/
 
 Git中文教程：[http://git.oschina.net/progit/](http://git.oschina.net/progit/)
 
+7天学会Nodejs：[http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/)
+
 ## 创建开发分支
 
 创建一条develop分支用于开发，master主干保留用于生产上线

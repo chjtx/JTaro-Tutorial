@@ -6,6 +6,10 @@
 - [开发](./doc/2-develop.md)
 - [上线](./doc/3-production.md)
 
+课后补充
+
+- [npm命令](./note/1-npm.md)
+
 本教程将会一步一步引导大家从零开始搭建一个前端WebApp项目
 
 涉及到的技术：
