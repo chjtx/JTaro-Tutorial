@@ -66,7 +66,7 @@ npm init
 - **keywords** 关键字，用于供给npmjs网站搜索
 - **author** 作者
 - **license** 协议
-- **dependencies** 依赖，使用`npm i --save <模块包>`选项安装的模块包将会记录在这里，`--save`是别名是`-S`
+- **dependencies** 依赖，使用`npm i --save <模块包>`选项安装的模块包将会记录在这里，`--save`的别名是`-S`
 - **devDependencies** 开发依赖，使用`npm i --save-dev <模块包>`选项安装的模块包将会记录在这里，`--save-dev`的别名是`-D`
 
 更多内容请访问：[https://docs.npmjs.com/](https://docs.npmjs.com/)
