@@ -6,6 +6,10 @@
 - [开发](./doc/2-develop.md)
 - [上线](./doc/3-production.md)
 
+课堂记录
+
+- [课堂记录](./note/0-note.md)
+
 课后补充
 
 - [npm常用命令](./note/1-npm.md)
