@@ -10,6 +10,8 @@ JTaro 官网：[http://www.chjtx.com/JTaro/](http://www.chjtx.com/JTaro/)
 
 JTaro Module：[https://github.com/chjtx/JTaro-Module](https://github.com/chjtx/JTaro-Module)
 
+JTaro UI：[https://github.com/chjtx/JTaro-UI](https://github.com/chjtx/JTaro-UI)
+
 Git中文教程：[http://git.oschina.net/progit/](http://git.oschina.net/progit/)
 
 7天学会Nodejs：[http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/)
