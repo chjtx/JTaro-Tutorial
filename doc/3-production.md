@@ -6,7 +6,7 @@
 
 ```bash
 git checkout master
-git rebase develop
+git merge develop
 ```
 
 - 修改api.js
