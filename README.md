@@ -6,6 +6,10 @@
 - [开发](./doc/2-develop.md)
 - [上线](./doc/3-production.md)
 
+协作开发
+
+- [讨论本教程示例的多人协作开发](./doc/4-collaboration.md)
+
 课后补充
 
 - [npm常用命令](./note/1-npm.md)
