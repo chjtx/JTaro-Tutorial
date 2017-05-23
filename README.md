@@ -2,7 +2,7 @@
 
 ## 视频下载地址
 
-[https://pan.baidu.com/s/1skVDeAp](https://pan.baidu.com/s/1skVDeAp)
+[https://pan.baidu.com/s/1skVDeAp](https://pan.baidu.com/s/1skVDeAp) *（不要在线观看，否则音质好差的T_T）*
 
 *注意：为了体现出该组合开发（Vue + JRoll + JTaro + JTaro Module）的高端性能，本视频全程使用低端设备进行操作录制^_^*
 
