@@ -1,16 +1,70 @@
 # JTaro-Tutorial
 
-三步曲
+## 视频教程地址
+
+[https://pan.baidu.com/s/1skVDeAp](https://pan.baidu.com/s/1skVDeAp)
+
+## 视频教程目录
+
+准备部分
+
+1. 课程简介
+2. 准备工作
+3. 开启ESLint
+
+Vue部分（有Vue使用基础的同学可以跳过）
+
+4. Vue介绍
+5. Vue实例
+6. Vue模板语法
+7. Vue计算属性
+8. Vue Class与Style绑定
+9. Vue条件渲染
+10. Vue列表渲染
+11. Vue事件处理器
+12. Vue表单控件绑定
+13. Vue组件1
+14. Vue组件2
+15. Vue组件3
+
+JRoll部分
+
+16. JRoll介绍
+17. JRoll可选参数
+18. JRoll事件方法等
+
+JTaro部分
+
+19. JTaro介绍
+20. JTaro基础用法
+21. JTaro路由和通讯
+22. JTaro组合开发
+
+实战部分
+
+23. 实战项目-开始
+24. 实战项目-列表页
+25. 实战项目-详情页
+26. 实战项目-详情内容
+27. 实战项目-分享组件
+28. 实战项目-详情页补充
+29. 实战项目-评论页
+30. 实战项目-打包上线
+31. 大结局
+
+*任何视频、书籍等教程都有时效性，请以各框架工具最新的官方文档为准*
+
+## 三步曲
 
 - [准备](./doc/1-prepare.md)
 - [开发](./doc/2-develop.md)
 - [上线](./doc/3-production.md)
 
-协作开发
+## 协作开发
 
 - [讨论本教程示例的多人协作开发](./doc/4-collaboration.md)
 
-课后补充
+## 课后补充
 
 - [npm常用命令](./note/1-npm.md)
 - [git常用命令](./note/2-git.md)
