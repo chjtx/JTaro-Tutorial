@@ -16,7 +16,7 @@
 参考示例：[http://git.oschina.net/chenjianlong/hello-world](http://git.oschina.net/chenjianlong/hello-world)
 
 ```js
-/                          //根目录
+\/                          //根目录
 |-- dev/                    //开发目录
     |-- assets/             //资源目录（设计师）
         |-- fonts/
